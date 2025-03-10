@@ -18,12 +18,12 @@
 <p align="center"> Overview </p>
 
 <p align="center">
-      <img src="https://i.ibb.co.com/spqg4z1s/1-power-BI-project.png" width="726"> 
+      <img src="https://i.ibb.co.com/spqg4z1s/1-power-BI-project.png" width="1366"> 
 </p>
 
 ---
 <p align="center"> Employees </p>
 
 <p align="center">
-      <img src="https://i.ibb.co.com/r2MHY4HD/2-power-BI-project.png" width="726"> 
+      <img src="https://i.ibb.co.com/r2MHY4HD/2-power-BI-project.png" width="1366"> 
 </p>
