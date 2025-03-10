@@ -1,5 +1,5 @@
 # Интерактивный дэшборд для анализа продаж продуктов питания
-<a href="https://github.com/merekesabitov/Sales-Analytics-and-Business-Process-Optimization/blob/main/Sales-Analytics-and-Business-Process-Optimization.sql" style="float: right;">Скачать проект</a>
+<a href="https://drive.google.com/file/d/1WP7ftvK2DUKwlHLudIgdEZV_nxwiAHZX/view?usp=sharing" style="float: right;">Скачать проект</a>
 
 В рамках данной проектной работы разработан интерактивный дэшборд на основе данных о продажах продуктов питания за четырехмесячный период. Дэшборд позволяет наглядно анализировать ключевые показатели: динамику продаж, распределение по регионам, товарным категориям и эффективности сотрудников.
 
